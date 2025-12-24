@@ -55,9 +55,4 @@ align-aiadopts/
 │   ├── AI Adoption Model Template.md
 │   └── Enterprise AI Reference Architectures.md
 │
-├── frameworks/
-│   ├── ai-adoption-decision-framework.md
-│   ├── ownership-vs-experimentation.md
-│   └── governance-alignment.md
-│
 └── README.md
