@@ -51,10 +51,9 @@ If your responsibility includes **outcomes, risk, and credibility**, this conten
 align-aiadopts/
 │
 ├── articles/
-│   ├── executive-preface.md
-│   ├── ai-adoption-as-leadership.md
-│   ├── why-pilots-fail.md
-│   └── operating-model-ownership.md
+│   ├── AI Adoption Guardrails.md
+│   ├── AI Adoption Model Template.md
+│   └── Enterprise AI Reference Architectures.md
 │
 ├── frameworks/
 │   ├── ai-adoption-decision-framework.md
