@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 What is Align AIAdopts?
+## 🧠 What is Align [AIAdopts](https://www.aiadopts.com/)?
 
 **Align AIAdopts** is a knowledge repository focused on **AI adoption as an operating and leadership decision**, not a tooling exercise.
 
